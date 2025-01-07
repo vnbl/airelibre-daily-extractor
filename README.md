@@ -104,7 +104,7 @@ airelibre-daily-extractor/
 ├── run_daily.sh                 # Shell script for daily updates
 ├── README.md                    # Project documentation
 ├── requirements.txt             # Python dependencies
-└── data/raw/                 # Directory for storing extracted CSV files
+└── data/                        # Directory for storing extracted CSV files
 ```
 ## CSV File Details
 
